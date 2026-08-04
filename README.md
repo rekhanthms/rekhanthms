@@ -2,7 +2,6 @@
 
 # Hi there, I'm Rekhanth Madhurantakam 👋
 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100">
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=.NET+Full+Stack+Developer;4%2B+Years+of+Experience;C%23+%7C+.NET+%7C+Angular+%7C+SQL+Server;Turning+Ideas+Into+Clean+Code" alt="Typing SVG" /></a>
 
